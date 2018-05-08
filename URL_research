@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##Yi Fang URL Requests
 http://www.bestbiotech.com.cn/shop/product/search?search=type&keyword=78111-17-8&pagesize=30
 ##Result
@@ -165,3 +166,172 @@ http://www.bestown.net.cn/?gallery--n,623;jh;42;jh;7-index.html
 
 <form name="insertshoppingcart" method="post" action="insertgwc.jsp" target="_blank"><input type="hidden" name="productid" value="XW06234272"><input type="hidden" name="action" value="insertshoppingcart"><input type="submit" name="ok" value="购买" style="width:50px; height:20px;border:0px solid;background: url(images/bb1.png) no-repeat center;"> </form>
 
+=======
+##Yi Fang URL Requests
+http://www.bestbiotech.com.cn/shop/product/search?search=type&keyword=78111-17-8&pagesize=30
+##Result
+<tbody><tr>
+                        <th width="200">产品编号</th>
+                        <th width="220">产品名称</th>
+                        <th width="200">品牌</th>
+                        <th>CAS号</th>
+                        <th>规格</th>
+                        <th>售价</th>
+                        <th>库存</th>
+                    </tr>
+                    
+                    <tr>
+                        <td><div class="product_div"><a href="http://www.bestbiotech.com.cn/shop/product/view/203677">O515500-1mg </a></div></td>
+                        <td>
+                            <a href="http://www.bestbiotech.com.cn/shop/product/view/203677"><em>冈田酸/软海绵酸</em><br><i>Okadaic Acid</i></a>
+                        </td>
+                        <td><a href="http://www.bestbiotech.com.cn/shop/product/view/203677">加拿大TRC公司</a></td>
+                        <td>
+                            
+                            <a href="http://www.bestbiotech.com.cn/shop/product/search?cas=46183&amp;keyword=78111-17-8&amp;search=type" title="78111-17-8" class="pro_3">78111-17-8</a>
+                           
+                        </td>
+                        <td><a href="http://www.bestbiotech.com.cn/shop/product/view/203677">1mg</a></td>
+                        <td class="picesss"><a href="http://www.bestbiotech.com.cn/shop/product/view/203677">27650</a></td>
+                        <td><a href="http://www.bestbiotech.com.cn/shop/product/view/203677">2-3周</a></td>
+                    </tr>
+                    
+            
+                </tbody>
+##Anpel Requests
+http://www.anpel.com.cn/Search.aspx?Types=6&Type=0&KeyWord=78111-17-8%09
+##Result
+<td colspan="4" class="prod_info1">
+                                        <div id="prodpic" style="display:none">
+                                            <table id="dtList" cellspacing="0" border="0" style="border-width:0px;border-collapse:collapse;">
+		<tbody><tr>
+			<td align="left" style="height:220px;">
+                                                    <table class="td" width="190" border="0" cellpadding="0" cellspacing="0">
+                                                        <tbody><tr height="240" valign="top">
+                                                            <td width="10px"></td>
+                                                            <td width="180px">
+                                                                <table class="td" border="0" cellpadding="0" cellspacing="0" width="180">
+                                                                    <tbody><tr>
+                                                                        <td align="center" height="110" colspan="2">
+                                                                            <a id="dtList_ctl00_hlkStock" href="products/119856.html"><img id="dtList_ctl00_imgStock" src="upfile\stock\20170324\TRC.jpg" style="height:90px;width:120px;border-width:0px;"></a>
+                                                                            
+                                                                            <input name="dtList$ctl00$lblNewPrice1" type="text" value="0" id="dtList_ctl00_lblNewPrice1" class="txtInput" style="display:none;">
+                                                                            
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td id="dtList_ctl00_tdPrice" class="font7" colspan="2">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+                                                                                <tbody><tr>
+                                                                                    <td class="index_tdLe_a">标准价：</td>
+                                                                                    <td class="index_tdrh_a">
+                                                                                        <span id="dtList_ctl00_lblPrice"></span>
+                                                                                        <a id="dtList_ctl00_btnPrice" href="javascript:__doPostBack('dtList$ctl00$btnPrice','')" style="color:#0088FF;text-decoration:underline;">询价</a>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+			
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td class="font70" colspan="2">
+                                                                            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
+                                                                                <tbody><tr>
+                                                                                    <td class="index_tdLe_b" align="center">优惠价：</td>
+                                                                                    <td class="index_tdrh_b">
+                                                                                        <span id="dtList_ctl00_lblVIP" style="color:Black;">暂无</span>
+                                                                                        
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody></table>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td colspan="2">
+                                                                            <a id="dtList_ctl00_hlkStkName" title="冈田酸(软海绵酸）" class="index_a_stock" href="products/119856.html">冈田酸(软海绵酸）</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td width="40">货号：</td>
+                                                                        <td width="150">
+                                                                            <a id="dtList_ctl00_hlkStkNo" title="CDDM-O515500-0.5mg" href="products/119856.html" target="_blank">CDDM-O515500-0.5mg</a>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td>规格：</td>
+                                                                        <td>
+                                                                            <span id="dtList_ctl00_lblSpec" title="0.5mg">0.5mg</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr height="20">
+                                                                        <td width="40">品牌：</td>
+                                                                        <td width="150">
+                                                                            <span id="dtList_ctl00_lblBrandName" title="TRC">TRC</span>
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>
+                                                        <tr height="30">
+                                                            <td align="center" valign="bottom" colspan="2">&nbsp;
+
+                                                                <a id="dtList_ctl00_hlkShopping" class="btn btn-blue" onclick="return checkshopping('0.00','0');" href="javascript:__doPostBack('dtList$ctl00$hlkShopping','')">加入购物车</a>
+                                                                &nbsp;&nbsp;
+                                                                
+                                                                <a id="dtList_ctl00_hlkCollection" class="btn btn-default" href="javascript:__doPostBack('dtList$ctl00$hlkCollection','')">收 藏</a>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td height="1" colspan="2">
+                                                                <hr class="hr_dotted" size="1">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td><td align="left" style="height:220px;">
+                                                   
+                                               
+			</tr>
+		</tbody></table>
+	</div>
+                                        </div>
+                                    </td>
+##ZhenXiang Requests
+http://www.bestown.net.cn/?gallery--n,623;jh;42;jh;7-index.html
+##Result
+<div class="GoodsSearchWrap"> <form method="post" action="http://www.bestown.net.cn/?search-result.html" id="selector-form" style="display: none;"> <input type="hidden" name="filter" value="n%2C623-42-7">  <div class="GoodsSelector division boxGray">  <div class="division" id="selector_contents"> <table width="100%">  </table> </div>  </div>  </form> <script type="text/javascript">
+   
+##GuoYao Requests
+
+##Result
+
+<table width="100%" cellpadding="0" cellspacing="1" border="0">
+							<tbody><tr bgcolor="#3095c9">
+								<td align="center" width="10%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>产品编号</b></font></td>
+								<td align="center" width="10%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>CAS号</b></font></td>
+								<td align="center" width="20%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>产品名称</b></font></td>
+								<td align="center" width="15%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>规格</b></font></td>
+								<td align="center" width="10%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>包装</b></font></td>
+								<td align="center" width="10%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>价格</b></font></td>
+								<td align="center" width="10%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>库存状态</b></font></td>
+								<td align="center" colspan="2" width="15%" height="25px" valign="middle"><font size="2" color="#FFFFFF"><b>操作</b></font></td>
+							</tr>
+
+<tr bgcolor="#F2F2F2" height="30px">
+<td align="center" valign="middle" rowspan="2"><font size="2"><a href="showproduct.jsp?id=XW06234272" target="_blank">XW06234272</a></font></td>
+<td align="center" valign="middle" rowspan="2"><font size="2"><a href="showproduct.jsp?id=XW06234272" target="_blank">623-42-7</a></font></td>
+<td align="center" valign="middle" rowspan="2"><font size="2">
+<a href="showproduct.jsp?id=XW06234272" target="_blank">丁酸甲酯</a>
+
+
+</font>
+</td>
+<td align="center" valign="middle" rowspan="2" style="word-break:break-all; word-wrap:break-word;"><a href="showproduct.jsp?id=XW06234272" target="_blank"><font size="2">99％（沃凯）</font></a></td>
+<td align="center" valign="middle" rowspan="2"><a href="showproduct.jsp?id=XW06234272" target="_blank"><font size="2">100g</font></a></td>
+<td align="center" valign="middle" rowspan="2"><a href="showproduct.jsp?id=XW06234272" target="_blank"><font size="2">85.00</font></a></td>
+<td align="center" valign="middle" rowspan="2"><a href="showproduct.jsp?id=XW06234272" target="_blank"><font size="2">&lt;10</font></a></td>
+<td align="center">
+
+
+<form name="insertshoppingcart" method="post" action="insertgwc.jsp" target="_blank"><input type="hidden" name="productid" value="XW06234272"><input type="hidden" name="action" value="insertshoppingcart"><input type="submit" name="ok" value="购买" style="width:50px; height:20px;border:0px solid;background: url(images/bb1.png) no-repeat center;"> </form>
+
+>>>>>>> write my message
