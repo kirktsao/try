@@ -1,0 +1,2 @@
+##安普
+url='http://www.anpel.com.cn/Search.aspx?Types=6&Type=0&KeyWord='+str(cas)+''%09'
