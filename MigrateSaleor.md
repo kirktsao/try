@@ -17,3 +17,9 @@ copy public.product_productimage (id, image, ppoi, alt, sort_order, product_id) 
 
 Update Attribute
 update public.product_product set attributes = attributes || '"1"=>"1"'::hstore where id > 182;
+
+Check Out Sequence:
+/ds;
+
+Check Next Sequence value:
+Select nextval('product_product_id_seq');
