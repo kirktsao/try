@@ -23,3 +23,6 @@ Check Out Sequence:
 
 Check Next Sequence value:
 Select nextval('product_product_id_seq');
+
+Set Value Sequence:
+Select setval('product_product_id_seq',294);
