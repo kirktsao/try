@@ -1,0 +1,4 @@
+INSERT INTO "product_product" ("seo_title", "seo_description", "product_type_id", "name", "description", "category_id", "price", "available_on", "is_published", "attributes", "updated_at", "charge_taxes", "tax_rate", "weight")                                                                                       VALUES ('', '48273B 32477-35-3', 2, 'N-七氟丁酰基咪唑', '<p>48273B 32477-35-3</p>', 2, '160.00', NULL, true, hstore(ARRAY['1','2'], ARRAY['5','33']), '2019-04-29T05:56:54.271188+00:00'::timestamptz, true, '', NULL) RETURNING "product_product"."id"
+Select max(id) from "product_product";
+Select nextval('product_product_id_seq');
+Select setval('product_productimage_id_seq',294);
