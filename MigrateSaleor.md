@@ -4,6 +4,8 @@ product_products:
 copy public.product_product (id, name, description, price, available_on, updated_at, product_type_id, attributes, is_published, category_id, seo_description, seo_title, charge_taxes, tax_rate, weight) FROM '/tmp/p1.csv' CSV HEADER DELIMITER ',' FORCE NOT NULL attributes;
 
 
+New!!!
+copy public.product_product (id, name, description, price, publication_date, updated_at, product_type_id, attributes, is_published, category_id, seo_description, seo_title, charge_taxes, tax_rate, weight,description_json) FROM '/tmp/p8.csv' CSV HEADER DELIMITER ',' FORCE NOT NULL attributes;
 
 
 product_productvariant:
