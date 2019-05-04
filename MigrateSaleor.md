@@ -20,6 +20,12 @@ copy public.product_productimage (id, image, ppoi, alt, sort_order, product_id) 
 Update Attribute
 update public.product_product set attributes = attributes || '"1"=>"1"'::hstore where id > 182;
 
+Update Brand
+
+update public.product_product set attributes = attributes || '"3"=>"18"'::hstore where id > 348 and id <366;
+select * from public.product_product where id = 348;
+/dashboard/products/id/
+
 Check Out Sequence:
 /ds;
 
