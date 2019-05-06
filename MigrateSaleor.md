@@ -34,3 +34,9 @@ Select nextval('product_product_id_seq');
 
 Set Value Sequence:
 Select setval('product_product_id_seq',294);
+
+
+update product_product
+set attributes = attributes || '"1"=>"8","2"=>"10","3"=>"2"'::hstore
+from tempmodify
+where tempmodify.id = product_product.id;
