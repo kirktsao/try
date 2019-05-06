@@ -35,8 +35,14 @@ Select nextval('product_product_id_seq');
 Set Value Sequence:
 Select setval('product_product_id_seq',294);
 
+修改等级规格
 
+##第一步
+delete from tempmodify;
+##第二步
+copy public.tempmodify (id) FROM '/tmp/ar500.csv' CSV HEADER DELIMITER ',';
+##第三步
 update product_product
-set attributes = attributes || '"1"=>"8","2"=>"10","3"=>"2"'::hstore
+set attributes = attributes || '"1"=>"8","2"=>"10","3"=>"23"'::hstore
 from tempmodify
 where tempmodify.id = product_product.id;
